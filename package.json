@@ -17,11 +17,11 @@
     "test": "pnpm -r run test"
   },
   "devDependencies": {
-    "@aws-amplify/discord-bot-scripts": "workspace:*",
-    "@typescript-eslint/eslint-plugin": "^6.20.0",
-    "@typescript-eslint/parser": "^6.20.0",
-    "eslint": "^8.56.0",
-    "eslint-config-prettier": "^9.1.0",
+    "@aws-amplidssdffy/discord-bot-scripts": "workspace:*",
+    "@typescsfsfript-eslint/eslint-plugin": "^6.20.0",
+    "@typessfscript-eslint/parser": "^6.20.0",
+    "eslsfsfint": "^8.56.0",
+    "eslisfsnt-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-svelte3": "^4.0.0",
